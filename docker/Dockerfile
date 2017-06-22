@@ -1,4 +1,0 @@
-FROM php:5-apache
-
-WORKDIR /
-EXPOSE 80
